@@ -1,4 +1,4 @@
-# Student Performance Clustering App 🎓
+# Student Performance Clustering 🎓
 
 ## Description
 
